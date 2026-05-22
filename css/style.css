@@ -10,6 +10,7 @@ body::selection {
   color: #000;
   background-color: #ffd15b;
 }
+/* start nav */
 header {
   display: flex;
   justify-content: center;
@@ -81,6 +82,8 @@ header {
 .right-nav:hover {
   transform: translate(3px, 3px);
 }
+/* end nav */
+/* start hero */
 .hero {
   position: relative;
   background-color: #fef186;
@@ -247,6 +250,8 @@ h1 {
   font-size: 16px;
   border: 2px solid #000;
 }
+/* end hero */
+/* start Articles */
 .latestArticles {
   padding: 80px 0;
   border-bottom: 4px solid #000;
@@ -539,6 +544,8 @@ h1 {
 .c-categories .five:hover {
   background-color: #dab2ff;
 }
+/* end Articles */
+/* start authors */
 .authors {
   padding: 80px 0;
   background-color: #ffd230;
@@ -732,6 +739,8 @@ h1 {
 .MIKE-EDGE:hover h3 {
   color: #9810fa;
 }
+/* end authors */
+/* start community */
 .community {
   padding: 80px 0;
   border-bottom: 4px solid #000;
@@ -880,6 +889,8 @@ h1 {
   background-color: #faf5ff;
   margin: 0;
 }
+/* end community */
+/* start footer */
 footer {
   padding: 80px 0;
   background-color: #000;
@@ -1015,6 +1026,7 @@ footer {
 .bottom-footer div a:hover {
   color: #ffdf20;
 }
+/* end footer */
 .icon-menu {
   display: none;
 }
