@@ -1056,7 +1056,7 @@ footer {
     display: flex;
     flex-flow: row-reverse;
     background-color: #000000c5;
-    backdrop-filter: blur(2px);
+        backdrop-filter: blur(2px);
     position: fixed;
     inset: 0;
     z-index: 10000;
@@ -1182,7 +1182,6 @@ footer {
   }
   .left-nav {
     font-size: 42px;
-    line-height: normal;
   }
   .center-nav,
   .right-nav {
